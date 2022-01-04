@@ -1,9 +1,9 @@
 from pyrogram.emoji import *
 
 class TEXT:
-    DOWNLOAD_START = f"Downloading Starts soon {SLEEPING_FACE}"
-    UPLOAD_START = f"Upload Starting Soon {SLEEPING_FACE}"
-    UPLOAD_SUCESS = f"Thanks for using [me](https://t.me/Sbrenamerbot)"
+    DOWNLOAD_START = f"INITIALIZINH YOUR DOWNLOAD💥"
+    UPLOAD_START = f"INITIALIZING YOUR UPLOAD💥"
+    UPLOAD_SUCESS = f"Thanks for using [me](https://t.me/Renamermoviehub_bot)"
     BANNED_USER_TEXT = f"Hey bro, you are **banned** from using me {FACE_WITH_TEARS_OF_JOY}."
     NOT_LOGGED_TEXT = f"This bot was only for private use {LOCKED_WITH_KEY}. If you want to use this bot you need to send me correct password in the format `/login bot_password`"
     SAVED_CUSTOM_THUMBNAIL = f"Thumbnail Saved Permanently {NOTEBOOK_WITH_DECORATIVE_COVER}"
@@ -22,11 +22,7 @@ class TEXT:
 
 ** Developer:** {bot_owner}
 
-** Channel:** [SB BOT UPDATES](https://t.me/S_bots)
-
-** Group:** [SB BOT SUPPORT ](https://t.me/S_bots_support)
-
-** Movies Group:** [Press Me](t.me/new_cinema_mall)
+** Movies Group:** [Press Me](https://t.me/themoviehub2)
 """
 
     HELP_USER = """**Follow Below Steps:**
@@ -41,7 +37,8 @@ For source code check about
 
     START_TEXT = """Hi {user_mention},
 
-I am a telegram renamer with permanent thumbnail.
+I am a telegram renamer with permanent thumbnail Made with ❤️ by @Siaan13 for you all.
+ Support me by donating @ 8564900143@paytm and joining @themoviehub2
 
 𝖥𝗈𝗋 𝖬𝗈𝗋𝖾 𝖣𝖾𝗍𝖺𝗂𝗅𝗌 𝖲𝖾𝖾 𝖧𝖾𝗅𝗉.
 
@@ -51,12 +48,11 @@ I am a telegram renamer with permanent thumbnail.
 
     DONATE_USER = """**__Thanks for showing interest in donation.__**
  
-Donate no one to keep our services continously alive
-You need not to pay many only available payment amounte is
-of 0rs
- 
+Donate to keep our services continously alive 😢❤️
 __--Payment Methods:--__
  
 GooglePay / Paytm / PhonPay / paypal / Net Banking
+
+Donate at this ID:- 8564900143@paytm . Message @Siaan13 for more methods
  
-**For Donate:** message no one i provide service for free"""
+**For Donate:** """
