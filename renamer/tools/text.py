@@ -1,7 +1,7 @@
 from pyrogram.emoji import *
 
 class TEXT:
-    DOWNLOAD_START = f"INITIALIZINH YOUR DOWNLOAD💥"
+    DOWNLOAD_START = f"INITIALIZIG YOUR DOWNLOAD💥"
     UPLOAD_START = f"INITIALIZING YOUR UPLOAD💥"
     UPLOAD_SUCESS = f"Thanks for using [me](https://t.me/Renamermoviehub_bot)"
     BANNED_USER_TEXT = f"Hey bro, you are **banned** from using me {FACE_WITH_TEARS_OF_JOY}."
